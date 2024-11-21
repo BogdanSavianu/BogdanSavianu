@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanSavianu&layout=compact)](https://github.com/BogdanSavianu)
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?BogdanSavianu" frameborder="0"></iframe>
