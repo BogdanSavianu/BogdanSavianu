@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-[![GitHub Profile Languages](https://raw.githubusercontent.com/username/repo/main/path-to-image.png)](https://ionicabizau.github.io/github-profile-languages/api.html?BogdanSavianu)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BogdanSavianu&show_icons=true&theme=transparent)
