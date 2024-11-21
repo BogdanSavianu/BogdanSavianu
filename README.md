@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanSavianu)](https://github.com/BogdanSavianu/github-readme-stats)
+![GitHub Profile Languages](https://img.shields.io/static/v1?label=Languages&message=Profile%20Summary&color=blue)
